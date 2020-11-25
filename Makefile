@@ -24,4 +24,3 @@ function4.o: function4.c
 
 clean:
 	rm -rf *o address
-
